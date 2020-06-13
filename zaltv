@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://img2.pngdownload.id/20180606/sq/kisspng-rcti-logo-streaming-media-television-media-nusanta-televisi-indonesia-5b183f759dc581.1376201515283157656462.jpg" group-title="LOKAL",  RCTI
-http://livetvhooq.akamaized.net/d182c52b34984076be9817e526e2bb5e/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1536005902~exp=9007200790746893~acl=/d182c52b34984076be9817e526e2bb5e/*/profile_0/chunklist.m3u8*~hmac=d3f38106d3b48f97b8cd3ff97e7e6d25a3f843a0875815c231a14b29bdd3ef34
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000042/index1024.m3u8
 
 #EXTINF:-1  tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/xMXy9IsKJfKo_4TiJwmBlss-2X0=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/665/rcti-8458c0.jpg" group-title="LOKAL",RCTI HD
 https://app-etslive-2.vidio.com/live/665/master.m3u
@@ -18,8 +18,8 @@ https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
 #EXTINF:0 tvg-logo="https://www.tvikim.my/images/logo-header.png" group-title="LOKAL",Indosiar
 http://203.153.218.28:9981/stream/channelid/261435212?ticket=B10B2C8D7C5EF65FE04AEAF62383D6B3647ED987&profile=pass
 
-#EXTINF:-1 tvg-ID="" tvg-name="SCTV" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/TCSGjxG6PuIyYzQE2LNFqTgEcng=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-150be8.jpg" group-title="LOKAL",SCTV
-http://id1.indostreamingtv.com:80/live/sctv/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/200px-SCTV_Logo.svg.png" group-title="LOKAL",SCTV
+http://livestreaming-a.production.liputan6.static6.com/i/sctv_1@137582/index_360_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="LOKAL",SCTV
 http://210.210.155.35/qwr9ew/s/s103/01.m3u8
@@ -52,8 +52,8 @@ http://210.210.155.35/session/08fb7806-059c-11e9-9d77-c81f66f89318/qwr9ew/s/s12/
 #EXTINF:-1  tvg-logo="http://wallperio.com/data/out/263/naruto-wallpaper-hd_610191579.jpg" group-title="LOKAL", NET TV SD
 http://210.210.155.35/qwr9ew/s/s08/01.m3u8
 
-#EXTINF:-1  tvg-logo="http://wallperio.com/data/out/263/naruto-wallpaper-hd_610191579.jpg" group-title="LOKAL", NET TV HD
-http://210.210.155.35/qwr9ew/s/s08/02.m3u8
+#EXTINF:-1  tvg-logo="https://1.bp.blogspot.com/-zGT8bisWtVI/Wt8-a1Ndx7I/AAAAAAAATi4/9ooIES0ZKsY0ufjKT_w2ae5VIKCFr5nOwCLcBGAs/s400/Frekuensi%2BNET%2BTV%2BTerbaru%2B2018.jpg", NET TV HD
+http://id.stream.netmedia.co.id/live/nettv_hi/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_cnnindonesia_big1.png?v=1.0.0.0" group-title="LOKAL",  CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
